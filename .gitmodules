@@ -1,0 +1,15 @@
+[submodule "system/system"]
+	path = system/system
+	url = git@github.com:sharad/system.git
+[submodule "packages/misc/browser/conkeror"]
+	path = packages/misc/browser/conkeror
+	url = git://repo.or.cz/conkeror.git
+[submodule "packages/common-lisp/source/sharad/in.net.sharad.utils"]
+	path = packages/common-lisp/source/sharad/in.net.sharad.utils
+	url = git@bitbucket.org:sh4r4d/in.net.sharad.utils
+[submodule "packages/common-lisp/source/sharad/pa"]
+	path = packages/common-lisp/source/sharad/pa
+	url = git@bitbucket.org:sh4r4d/pa
+[submodule "packages/common-lisp/source/sharad/stumpwm"]
+	path = packages/common-lisp/source/sharad/stumpwm
+	url = https://sharad@github.com/sharad/stumpwm.git
