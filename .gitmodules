@@ -12,4 +12,7 @@
 	url = git@bitbucket.org:sh4r4d/pa
 [submodule "packages/common-lisp/source/sharad/stumpwm"]
 	path = packages/common-lisp/source/sharad/stumpwm
-	url = https://sharad@github.com/sharad/stumpwm.git
+	url = git@github.com:sharad/stumpwm.git
+[submodule "packages/common-lisp/source/stumpwm-contrib"]
+	path = packages/common-lisp/source/stumpwm-contrib
+	url = git@github.com:sharad/stumpwm-contrib.git
