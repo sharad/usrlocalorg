@@ -16,3 +16,6 @@
 [submodule "packages/common-lisp/source/stumpwm-contrib"]
 	path = packages/common-lisp/source/stumpwm-contrib
 	url = git@github.com:sharad/stumpwm-contrib.git
+[submodule "packages/common-lisp/source/stumpwm-packages/contrib-module/stumpwm-dbus"]
+	path = packages/common-lisp/source/stumpwm-packages/contrib-module/stumpwm-dbus
+	url = https://github.com/russell/stumpwm-dbus.git
